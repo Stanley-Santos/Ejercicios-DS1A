@@ -1,0 +1,47 @@
+body{
+    background-color: cornsilk;
+    text-align:center ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contenedor{
+    background-color:rgb(245, 255, 157);
+    border: 24px;
+    border-color: rgb(190, 155, 255);
+    border-radius: 34px;
+  
+    margin-top: 80px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+h1{
+    color: rgb(56, 34, 6);
+}
+p{
+    font-size: 20px;
+}
+button{
+    padding: 20px 25px;
+    margin: 5px;
+    border: none;
+    border-radius: 24px;
+    cursor: pointer;
+
+
+}
+
+#rojo{
+background-color: red;
+color: rgb(217, 248, 217);
+font-size: 20px;
+}
+#azul{
+    background-color: blue;
+    color: rgb(245, 241, 241);
+    font-size: 20px;
+}
+#verde{
+    background-color: green;
+    color: aliceblue;
+    font-size: 20px;
+}
